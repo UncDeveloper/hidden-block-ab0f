@@ -1,0 +1,12 @@
+{
+  "name": "hidden-block-ab0f",
+  "compatibility_date": "2025-04-01",
+  "main": "./server.ts",
+  "assets": {
+    "directory": "./build/client"
+  },
+  "observability": {
+    "enabled": true
+  },
+  "upload_source_maps": true
+}
